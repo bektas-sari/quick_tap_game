@@ -57,7 +57,7 @@ quick_tap_game/
 
 ```bash
 # 1. Clone the repo
-$ git clone https://github.com/yourusername/quick_tap_game.git
+$ git clone https://github.com/bektas-sari/quick_tap_game.git
 $ cd quick_tap_game
 
 # 2. Fetch dependencies (none besides Flutter SDK)
