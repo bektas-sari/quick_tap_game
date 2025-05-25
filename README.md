@@ -85,7 +85,7 @@ Pull requests are welcome! If you spot a bug or have an improvement idea, pleas
 
 ## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. 
 
 ---
 
@@ -100,4 +100,4 @@ Academia: [https://independent.academia.edu/bektassari](https://independent.acad
 
 ---
 
-*Made with ♥ and plenty of caffeine.*
+
