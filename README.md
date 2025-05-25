@@ -1,4 +1,4 @@
-# Quick Tap Game
+# Quick Tap Game (Flutter APP)
 
 A lightning‑fast reflex game built with Flutter. Tap the moving circle as many times as you can before the 30‑second timer hits zero.
 
